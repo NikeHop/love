@@ -1,0 +1,6 @@
+/wandb
+babyai*.pkl
+/experiments
+__pycache__
+/asset
+compile.npy
